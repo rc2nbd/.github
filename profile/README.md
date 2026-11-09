@@ -9,7 +9,7 @@
 
 We work to improve the lives of people with multiple sclerosis and other neurological diseases. Our research turns clinical data, imaging, biomarkers and digital tools into better diagnosis, monitoring and treatment.
 
-RC2NB is based at the University Hospital Basel (USB) and works closely with the University of Basel and the Swiss MS Cohort (SMSC).
+RC2NB is a non-profit foundation of the University Hospital Basel (USB) and the University of Basel. It works closely with both and with the Swiss MS Cohort (SMSC).
 
 ## What you find here
 
@@ -32,3 +32,21 @@ Some repositories are public. Most are private while they are in development.
 - Website: [rc2nb.ch](https://rc2nb.ch)
 - For questions about a repository, open an issue there.
 - Please report security issues privately through the contact on our website, not in a public issue.
+
+## A foundation of
+
+<p>
+  <a href="https://www.unispital-basel.ch">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="usb-logo-dark.svg">
+      <img alt="University Hospital Basel" src="usb-logo-light.svg" height="40">
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.unibas.ch">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="unibas-logo-dark.svg">
+      <img alt="University of Basel" src="unibas-logo-light.svg" height="40">
+    </picture>
+  </a>
+</p>
