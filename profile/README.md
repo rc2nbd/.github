@@ -35,18 +35,10 @@ Some repositories are public. Most are private while they are in development.
 
 ## A foundation of
 
-<p>
-  <a href="https://www.unispital-basel.ch">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="usb-logo-dark.svg">
-      <img alt="University Hospital Basel" src="usb-logo-light.svg" height="40">
-    </picture>
+<a href="https://www.unispital-basel.ch/neurologie">
+    <picture><source media="(prefers-color-scheme: dark)" srcset="usb-logo-dark.svg"><img alt="University Hospital Basel" src="usb-logo-light.svg" height="40"></picture>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.unibas.ch">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="unibas-logo-dark.svg">
-      <img alt="University of Basel" src="unibas-logo-light.svg" height="40">
-    </picture>
+  <a href="https://medizin.unibas.ch">
+    <picture><source media="(prefers-color-scheme: dark)" srcset="unibas-logo-dark.svg"><img alt="University of Basel" src="unibas-logo-light.svg" height="40"></picture>
   </a>
-</p>
